@@ -37,25 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" title="npm"/>
 </p>
 
----
-
-## 🚀 My Projects
-
-### 1. Service Booking Platform (Full Stack)
-**Technologies Used:**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=20232A"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-</p>
-
-**Features:**
-- User authentication with JWT
-- Real-time booking system
-- Service provider matching algorithm
-- Rating and review system
-
 
 ---
 
