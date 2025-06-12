@@ -21,23 +21,36 @@
 </p>
 
 ### ⚙️ Back-End Development
+
 <p align="center">
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="80" height="80"/>
+  </a>
+
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="100" height="80"/>
+  </a>
+
+  <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</a>
+    <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="80" height="80"/>
+  </a>
+
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="100" height="60"/>
+  </a>
+
+  <!-- Socket.IO -->
   <a href="https://socket.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="80" height="80"/>
   </a>
+
 </p>
+
 
 ### 🛠️ Tools
 <p align="center">
