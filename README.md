@@ -20,9 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" title="TailwindCSS"/>
 </p>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
   <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" style="margin: 0 20px;">
+  <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
          alt="Node.js" 
          width="80" 
@@ -30,7 +31,7 @@
   </a>
 
   <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank" style="margin: 0 20px;">
+  <a href="https://expressjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
          alt="Express.js" 
          width="80" 
@@ -39,7 +40,7 @@
   </a>
 
   <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" style="margin: 0 20px;">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
          alt="MongoDB" 
          width="80" 
@@ -47,7 +48,7 @@
   </a>
 
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" style="margin: 0 20px;">
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
          alt="MySQL" 
          width="80" 
@@ -55,12 +56,13 @@
   </a>
 
   <!-- Socket.IO -->
-  <a href="https://socket.io/" target="_blank" style="margin: 0 20px;">
+  <a href="https://socket.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" 
          alt="Socket.IO" 
          width="80" 
          height="80"/>
   </a>
+
 </p>
 
 ### 💻 Programming Languages
