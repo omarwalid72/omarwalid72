@@ -25,27 +25,27 @@
 <p align="center">
 
   <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/" target="_blank" style="margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="80" height="80"/>
   </a>
 
   <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank" style="margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="80" height="80"/>
   </a>
 
   <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank" style="margin: 10px;">
     <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="80" height="80"/>
   </a>
 
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" style="margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="80" height="60"/>
   </a>
 
   <!-- Socket.IO -->
-  <a href="https://socket.io/" target="_blank">
+  <a href="https://socket.io/" target="_blank" style="margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="80" height="80"/>
   </a>
 
