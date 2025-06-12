@@ -50,6 +50,21 @@
   </a>
 
 </p>
+### 💻 Programming Languages
+
+<p align="center">
+
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="70" height="80"/>
+  </a>
+
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="100" height="60"/>
+  </a>
+
+</p>
 
 
 ### 🛠️ Tools
