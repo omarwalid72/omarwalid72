@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Walid</h1>
-<h3 align="center">Front-End Developer | React & React Native Enthusiast | Node.js Explorer</h3>
+<h3 align="center">Front-End Developer | React & React Native  | Node.js Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&width=435&lines=Building+Modern+Web+%26+Mobile+Apps;Crafting+Clean+UIs+with+React;Loving+JavaScript%2C+TypeScript%2C+and+Express.js" alt="Typing SVG" />
