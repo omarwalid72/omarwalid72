@@ -31,7 +31,7 @@
 
   <!-- Express.js -->
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="100" height="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="80" height="80"/>
   </a>
 
   <!-- MongoDB -->
@@ -41,7 +41,7 @@
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="100" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="80" height="60"/>
   </a>
 
   <!-- Socket.IO -->
