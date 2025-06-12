@@ -45,17 +45,6 @@
 - 🌍 Created **responsive UIs** with Tailwind CSS & React  
 - 💡 Focused on clean architecture, performance, and great user experience  
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarwalid72&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarwalid72&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarwalid72&layout=compact&theme=radical" />
-</p>
 
 ---
 
