@@ -10,14 +10,55 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Front-End Development
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" title="React Native" style="filter: hue-rotate(180deg)"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="50" title="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50" title="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" title="TailwindCSS"/>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+       width="50" 
+       title="React"
+       alt="React"/>
+       
+  <!-- React Native -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+       width="50" 
+       title="React Native" 
+       style="filter: hue-rotate(180deg)"
+       alt="React Native"/>
+       
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+       width="50" 
+       title="JavaScript"
+       alt="JavaScript"/>
+       
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+       width="50" 
+       title="TypeScript"
+       alt="TypeScript"/>
+       
+  <!-- Redux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" 
+       width="50" 
+       title="Redux"
+       alt="Redux"/>
+       
+  <!-- Redux Toolkit -->
+  <img src="https://redux-toolkit.js.org/img/redux-toolkit-logo.svg" 
+       width="50" 
+       title="Redux Toolkit (RTK)"
+       alt="Redux Toolkit"/>
+       
+  <!-- Vite -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+       width="50" 
+       title="Vite"
+       alt="Vite"/>
+       
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+       width="50" 
+       title="TailwindCSS"
+       alt="Tailwind CSS"/>
 </p>
 
 <p align="center" style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
