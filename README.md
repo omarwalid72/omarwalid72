@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" title="TailwindCSS"/>
 </p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
 
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">
