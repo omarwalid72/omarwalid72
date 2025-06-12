@@ -20,32 +20,61 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" title="TailwindCSS"/>
 </p>
 
-### ⚙️ Back-End Development
-
 <p align="center">
-
   <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="80" height="80"/>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+         alt="Node.js" 
+         width="80" 
+         height="80"
+         style="transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="80" height="80"/>
- 
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+         alt="Express.js" 
+         width="80" 
+         height="80"
+         style="filter: invert(1); transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 
   <!-- MongoDB -->
-    <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="80" height="80"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+         alt="MongoDB" 
+         width="80" 
+         height="80"
+         style="transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="80" height="60"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+         alt="MySQL" 
+         width="80" 
+         height="80"
+         style="transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
   <!-- Socket.IO -->
-  <a href="https://socket.io/" target="_blank" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="80" height="80"/>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" 
+         alt="Socket.IO" 
+         width="80" 
+         height="80"
+         style="transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseout="this.style.transform='scale(1)'"/>
   </a>
-
 </p>
 ### 💻 Programming Languages
 
