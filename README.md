@@ -22,60 +22,47 @@
 
 <p align="center">
   <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+  <a href="https://nodejs.org/" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
          alt="Node.js" 
          width="80" 
-         height="80"
-         style="transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.1)'"
-         onmouseout="this.style.transform='scale(1)'"/>
+         height="80"/>
   </a>
 
   <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+  <a href="https://expressjs.com/" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
          alt="Express.js" 
          width="80" 
          height="80"
-         style="filter: invert(1); transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.1)'"
-         onmouseout="this.style.transform='scale(1)'"/>
+         style="filter: invert(1);"/>
   </a>
 
   <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+  <a href="https://www.mongodb.com/" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
          alt="MongoDB" 
          width="80" 
-         height="80"
-         style="transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.1)'"
-         onmouseout="this.style.transform='scale(1)'"/>
+         height="80"/>
   </a>
 
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+  <a href="https://www.mysql.com/" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
          alt="MySQL" 
          width="80" 
-         height="80"
-         style="transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.1)'"
-         onmouseout="this.style.transform='scale(1)'"/>
+         height="80"/>
   </a>
 
   <!-- Socket.IO -->
-  <a href="https://socket.io/" target="_blank" rel="noreferrer" style="margin: 15px; display: inline-block;">
+  <a href="https://socket.io/" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" 
          alt="Socket.IO" 
          width="80" 
-         height="80"
-         style="transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.1)'"
-         onmouseout="this.style.transform='scale(1)'"/>
+         height="80"/>
   </a>
 </p>
+
 ### 💻 Programming Languages
 
 <p align="center">
