@@ -25,6 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" title="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="80" height="80"/>
+  </a>
 </p>
 
 ### 🛠️ Tools
